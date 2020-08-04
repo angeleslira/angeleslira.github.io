@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Entrega 1</title>
+      <title>Entrega 01: Planimetria</title>
       <link>https://angeleslira.github.io/docs/entrega-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -39,12 +39,21 @@
     </item>
     
     <item>
-      <title>Entrega 2</title>
+      <title>Entrega 02: Mecanizado CNC</title>
       <link>https://angeleslira.github.io/docs/entrega-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://angeleslira.github.io/docs/entrega-2/</guid>
       <description>Videos tutoriales para crear una silla Fresia</description>
+    </item>
+    
+    <item>
+      <title>Entrega 03: Mecanizado 2,5 D</title>
+      <link>https://angeleslira.github.io/docs/entrega-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://angeleslira.github.io/docs/entrega-3/</guid>
+      <description>Respaldo silla fresia</description>
     </item>
     
     <item>
